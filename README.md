@@ -1,5 +1,7 @@
 # Doomsday Coffee Roasters: static clone
 
+![Homepage preview](docs/preview/homepage.gif)
+
 This is a 1:1 rebuild of the look and behaviour of apocalypsecoffee.com. It uses a fictional brand, **Doomsday Coffee Roasters**, and is plain HTML/CSS/JS with no hosting or build step needed to view it.
 
 ## How to open
