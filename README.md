@@ -1,8 +1,8 @@
-# Doomsday Coffee Roasters: static clone
+# Doomsday Coffee Roasters: static site
 
 ![Homepage preview](docs/preview/homepage.gif)
 
-This is a 1:1 rebuild of the look and behaviour of apocalypsecoffee.com. It uses a fictional brand, **Doomsday Coffee Roasters**, and is plain HTML/CSS/JS with no hosting or build step needed to view it.
+This is an original static site for a fictional brand, **Doomsday Coffee Roasters**. It is plain HTML/CSS/JS with no hosting or build step needed to view it.
 
 ## How to open
 Open `index.html` directly in Chrome or Edge (double-click it). Every link is relative, so the site works from `file://`. The folder can also be uploaded as-is to any static host.
@@ -24,7 +24,7 @@ assets/
 ```
 
 ## Editing
-The pages are static, hand-editable HTML. The generator (`build/`), research scripts (`clone-kit/`) and comparison screenshots (`docs/`) that earlier versions of this README described are no longer in this folder, so edit the HTML files, CSS and JS directly.
+The pages are static, hand-editable HTML. The generator (`build/`) and the `docs/` folder that earlier versions of this README described are no longer in this folder, so edit the HTML files, CSS and JS directly.
 
 - Copy and markup: edit the relevant `.html` file. Shared parts (nav, menu, cart, popup, footer) are repeated in every page, so change them in each file.
 - Cart catalogue (names, prices, sizes): `assets/js/data.js`.
